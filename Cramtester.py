@@ -23,5 +23,5 @@ def check_upgrade_button():
         print "Upgrade Now! button is not available."
 
 if __name__ == "__main__":
-    login("yan.pye.aung@gmail.com", "abcdabcd")
+    login("user", "*****")
     check_upgrade_button()
